@@ -1,4 +1,4 @@
-# WalletGenerator
+# Wallet-Generator
 A Wallet Generator to be used on your own machine.
 
 With this script on your own machine, you may generate the public/private key pair needed to establish your own Wallet.
